@@ -59,6 +59,7 @@ bin_PROGRAMS = \
 	log2long \
 	slcan_attach \
 	slcand \
+	slcan2d \
 	slcanpty
 
 EXTRA_DIST = \
